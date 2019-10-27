@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{FB03018A-00A2-AD2B-C99A-2BCFB1733421}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/cameraController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PauseMenu.cs" Line="22" Column="40" />
+      <File FileName="Assets/Scripts/violetSound.cs" />
+      <File FileName="Assets/Scripts/sounds.cs" Line="40" Column="6" />
+      <File FileName="Assets/Scripts/normalSound.cs" Line="37" Column="6" />
+      <File FileName="Assets/Scripts/bossSound.cs" />
+      <File FileName="Assets/Scripts/invisibleSound.cs" />
+      <File FileName="Assets/Scripts/cameraController.cs" Line="221" Column="18" />
+      <File FileName="Assets/Scripts/StateManager.cs" Line="27" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="start over 2.0" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="cameraController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="start over 2.0" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3ea146f1-6665-458c-9588-ce520363a1e7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,71 @@
+﻿<Properties StartupConfiguration="{E9322C14-270C-90AC-552A-38F4F808DEED}|">
+<<<<<<< HEAD
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UI Script/ShowText.cs">
+    <Files>
+      <File FileName="Assets/Scripts/UI Script/MainMenu.cs" Line="15" Column="17" />
+      <File FileName="Assets/Scripts/UI Script/SwitchMusicTrigger.cs" Line="7" Column="24" />
+      <File FileName="Assets/Scripts/UI Script/ShowText.cs" Line="25" Column="1" />
+      <File FileName="Assets/Scripts/Managers/StateManager.cs" Line="48" Column="1" />
+      <File FileName="Assets/Scripts/UI Script/PauseMenu.cs" Line="46" Column="10" />
+      <File FileName="Assets/Scripts/Managers/AudioManager.cs" />
+      <File FileName="Assets/Scripts/Managers/BattleManager.cs" />
+      <File FileName="Assets/Scripts/Sound Script/sounds.cs" Line="22" Column="39" />
+      <File FileName="Assets/Scripts/Sound Script/violetSound.cs" Line="28" Column="33" />
+      <File FileName="Assets/Scripts/Sound Script/normalSound.cs" Line="28" Column="33" />
+      <File FileName="Assets/Scripts/Sound Script/invisibleSound.cs" Line="28" Column="33" />
+      <File FileName="Assets/Scripts/Sound Script/bossSound.cs" Line="28" Column="33" />
+      <File FileName="Assets/Scripts/Controllers/cameraController.cs" Line="91" Column="1" />
+      <File FileName="Assets/Scripts/Character Inputs/PlayerInput.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UI Script/ShowIntro.cs" Line="18" Column="42" />
+=======
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AudioManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PauseMenu.cs" Line="16" Column="18" />
+      <File FileName="Assets/Scripts/BGMController.cs" Line="11" Column="18" />
+      <File FileName="Assets/Scripts/AudioManager.cs" Line="1" Column="1" />
+>>>>>>> d429e30d67d2d8edef757002fafcc0aa306e0ef3
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="start over 1.0" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+<<<<<<< HEAD
+                <Node name="Character Inputs" expanded="True" />
+                <Node name="Controllers" expanded="True" />
+                <Node name="Managers" expanded="True" />
+                <Node name="Sound Script" expanded="True" />
+                <Node name="UI Script" expanded="True">
+                  <Node name="ShowText.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="start over 1.0" expanded="True" selected="True" />
+=======
+                <Node name="AudioManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+>>>>>>> d429e30d67d2d8edef757002fafcc0aa306e0ef3
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+<<<<<<< HEAD
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a4156991-46a2-4f2d-9446-1bc1732b0881" />
+=======
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b393a2dc-c055-45ad-a452-a3fc2df4385f" />
+>>>>>>> d429e30d67d2d8edef757002fafcc0aa306e0ef3
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
